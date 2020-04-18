@@ -1,0 +1,8 @@
+Put You Resourc Pack in Cube-Copyer1.0.0/dist and zip the file and change name to "cube.zip",then luanch Cube_Copyer, enter key and the username of the PC.
+将材质包放在Cube-Copyer1.0.0/dist中，压缩文件并将名称更改为“cube.zip”，然后启动Cube_Copyer并输入秘钥和电脑的用户名。
+
+Free Key:CUBE_0000V110
+免费的秘钥：CUBE_0000V110
+
+See the README file for Beta and Premium
+获取高级版方法请参考Readme.md文件
